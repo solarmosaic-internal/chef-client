@@ -2,6 +2,11 @@ chef-client Cookbook CHANGELOG
 ==============================
 This file is used to list changes made in each version of the chef-client cookbook.
 
+v3.2.3 (Mosaic only backport)
+-------------------
+[DEVOPS-6266] backports init.d script changes from v7.0.3
+
+
 v3.2.2 (2014-01-26)
 -------------------
 [COOK-4092] Add KeepAlive so that launchd will "daemonize" chef-client
